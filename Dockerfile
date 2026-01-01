@@ -1,2 +1,2 @@
 FROM alpine
-CMD ["echo", "Hello from a UI-only Docker image"]
+CMD ["echo", "Stay hungry. Stay foolish."]
